@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HC-114cs
 - 👀 I’m interested in computational chemistry
-- 🌱 I’m currently learning quantum mechanics/organic chemistry ...
+- 🌱 I’m currently learning DL / RL ...
 - 💞️ I’m looking to collaborate on studying
 - 📫 E-mail: dngchngw@stu.pku.edu.cn
 
